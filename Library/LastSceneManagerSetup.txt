@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/10611_000/Desktop/Demo/2D Ball Adventure/Assets/_Scenes/menu.unity
+  isLoaded: 1
+  isActive: 1
